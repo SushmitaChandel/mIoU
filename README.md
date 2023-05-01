@@ -10,7 +10,7 @@ Steps to use the package:
 
 Notes: "indexes" in demo are according to lexicographical naming of the the images. 
 
-For example, image 1 has name "1.jpg", image 2 has name "2.jpg",..., image 10 has name "10.jpg", them (image_name,index) pairs are as follows:
+For example, image 1 has name "1.jpg", image 2 has name "2.jpg",..., image 10 has name "10.jpg", then (image_name,index) pairs are as follows:
 (1.jpg,0)
 (10.jpg,1)
 (2.jpg,2)
