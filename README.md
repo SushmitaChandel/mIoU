@@ -22,4 +22,4 @@ For example, image 1 has name "1.jpg", image 2 has name "2.jpg",..., image 10 ha
 (8.jpg,8)
 (9.jpg,9)
 
-;To use all 40 images indexes = [0,1,2,....,39]
+To use all 40 images indexes = [0,1,2,....,39]
