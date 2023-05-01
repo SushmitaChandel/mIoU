@@ -1,1 +1,1 @@
-base_path = '/home/sushmita/Documents/projects/segmentation/'
+base_path = '/home/sushmita/Documents/projects/mIoU/'
