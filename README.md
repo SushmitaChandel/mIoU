@@ -9,6 +9,7 @@ Steps to use the package:
 4. RUN demo.py file.
 
 Notes: "indexes" in demo are according to lexicographical naming of the the images. 
+
 For example, image 1 has name "1.jpg", image 2 has name "2.jpg",..., image 10 has name "10.jpg", them (image_name,index) pairs are as follows:
 (1.jpg,0)
 (10.jpg,1)
@@ -20,4 +21,5 @@ For example, image 1 has name "1.jpg", image 2 has name "2.jpg",..., image 10 ha
 (7.jpg,7)
 (8.jpg,8)
 (9.jpg,9)
-To use all 40 images indexes = [0,1,2,....,39]
+
+;To use all 40 images indexes = [0,1,2,....,39]
